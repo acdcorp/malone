@@ -1,5 +1,5 @@
 Gem::Specification.new do |s|
-  s.name = 'malone'
+  s.name = 'malone-cj'
   s.version = "1.0.7"
   s.summary = %{Dead-simple Ruby mailing solution which always delivers.}
   s.date = "2011-01-10"
@@ -18,6 +18,6 @@ Gem::Specification.new do |s|
 
   s.require_paths = ["lib"]
 
-  s.add_dependency "mailfactory", "~> 1.4"
-  s.add_development_dependency "cutest"
+  s.add_dependency "mailfactory-acd"
+  s.add_development_dependency "cutest-cj"
 end
