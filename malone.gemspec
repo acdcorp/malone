@@ -1,5 +1,5 @@
 Gem::Specification.new do |s|
-  s.name = 'malone-cj'
+  s.name = 'malone-acd'
   s.version = "1.0.7"
   s.summary = %{Dead-simple Ruby mailing solution which always delivers.}
   s.date = "2011-01-10"
