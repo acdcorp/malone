@@ -18,6 +18,6 @@ Gem::Specification.new do |s|
 
   s.require_paths = ["lib"]
 
-  s.add_dependency "mailfactory-acd", '1.4.1'
+  s.add_dependency "mailfactory-acd", '1.4.2'
   s.add_development_dependency "cutest-cj"
 end
